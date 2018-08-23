@@ -1,0 +1,2 @@
+# Budgety
+JS Budget app
